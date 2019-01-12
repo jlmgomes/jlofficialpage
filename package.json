@@ -1,0 +1,25 @@
+{
+  "name": "official-page",
+  "version": "1.0.0",
+  "description": "João Gomes Official Page",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlmgomes/jlofficialpage.git"
+  },
+  "keywords": [
+    "official",
+    "page",
+    "joao",
+    "gomes"
+  ],
+  "author": "jlmgomes77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlmgomes/jlofficialpage"
+  },
+  "homepage": "https://github.com/jlmgomes/jlofficialpage#readme"
+}
