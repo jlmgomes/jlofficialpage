@@ -10,7 +10,7 @@
         position: absolute;
         content: " ";
         width: 3px;
-        background-color: #eeeeee;
+        background-color: #7F5A83;
         left: 50%;
         margin-left: -1.5px;
     }
@@ -43,7 +43,7 @@
         .timeline > li > .timeline-panel {
             width: 46%;
             float: left;
-            border: 1px solid #d4d4d4;
+            border: 1px solid #A188A6;
             border-radius: 2px;
             padding: 20px;
             position: relative;
@@ -57,8 +57,8 @@
                 right: -15px;
                 display: inline-block;
                 border-top: 15px solid transparent;
-                border-left: 15px solid #ccc;
-                border-right: 0 solid #ccc;
+                border-left: 15px solid #7F5A83;
+                border-right: 0 solid #7F5A83;
                 border-bottom: 15px solid transparent;
                 content: " ";
             }
@@ -121,7 +121,7 @@
 }
 
 .timeline-badge.warning {
-    background-color: #f0ad4e !important;
+    background-color: #A188A6 !important;
 }
 
 .timeline-badge.danger {
